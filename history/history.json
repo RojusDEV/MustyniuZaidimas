@@ -1,0 +1,333 @@
+{
+  "matches": [
+    {
+      "match_id": 265,
+      "timestamp": "2025-11-13T21:52:02.136975300",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Saruman"
+        }
+      },
+      "result": {
+        "winner": "enemy",
+        "rounds_player": 21
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 10,
+          "total_damage_dealt": 70,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 30,
+          "total_damage_dealt": 90,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 315,
+      "timestamp": "2025-11-13T21:52:49.368796600",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Radagast"
+        }
+      },
+      "result": {
+        "winner": "player",
+        "rounds_player": 6
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 100,
+          "total_damage_dealt": 15,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 85,
+          "total_damage_dealt": 0,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 418,
+      "timestamp": "2025-11-13T21:53:06.323207300",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Saruman"
+        }
+      },
+      "result": {
+        "winner": "draw",
+        "rounds_player": 6
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 80,
+          "total_damage_dealt": 20,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 80,
+          "total_damage_dealt": 20,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 118,
+      "timestamp": "2025-11-14T01:32:18.769698",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Radagast"
+        }
+      },
+      "result": {
+        "winner": "enemy",
+        "rounds_player": 16
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 50,
+          "total_damage_dealt": 40,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 60,
+          "total_damage_dealt": 50,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 59,
+      "timestamp": "2025-11-14T01:56:21.318174800",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Saruman"
+        }
+      },
+      "result": {
+        "rounds_player": 8
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 90,
+          "total_damage_dealt": 45,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 90,
+          "total_damage_dealt": 45,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 45,
+      "timestamp": "2025-11-14T01:57:03.414968400",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Sauron"
+        }
+      },
+      "result": {
+        "winner": "player",
+        "rounds_player": 6
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 50,
+          "total_damage_dealt": 1030,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 0,
+          "total_damage_dealt": 50,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 24,
+      "timestamp": "2025-11-14T18:48:00.119396900",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Saruman"
+        }
+      },
+      "result": {
+        "winner": "enemy",
+        "rounds_player": 13
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 0,
+          "total_damage_dealt": 95,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 5,
+          "total_damage_dealt": 105,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 941,
+      "timestamp": "2025-11-14T18:49:30.141739500",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Saruman"
+        }
+      },
+      "result": {
+        "winner": "enemy",
+        "rounds_player": 12
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 0,
+          "total_damage_dealt": 75,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 25,
+          "total_damage_dealt": 100,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 731,
+      "timestamp": "2025-11-14T21:54:35.945410800",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Galadriel"
+        }
+      },
+      "result": {
+        "winner": "draw",
+        "rounds_player": 12
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 0,
+          "total_damage_dealt": 100,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 0,
+          "total_damage_dealt": 100,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 116,
+      "timestamp": "2025-11-14T22:00:59.021122",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Elrond"
+        }
+      },
+      "result": {
+        "winner": "player",
+        "rounds_player": 11
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 10,
+          "total_damage_dealt": 105,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 0,
+          "total_damage_dealt": 90,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 245,
+      "timestamp": "2025-11-14T22:04:50.621888700",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Galadriel"
+        }
+      },
+      "result": {
+        "winner": "player",
+        "rounds_player": 10
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 10,
+          "total_damage_dealt": 100,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 0,
+          "total_damage_dealt": 90,
+          "combos_landed": 0
+        }
+      }
+    }
+  ]
+}

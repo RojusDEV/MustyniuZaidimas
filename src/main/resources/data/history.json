@@ -1,0 +1,63 @@
+{
+  "matches": [
+    {
+      "match_id": 345,
+      "timestamp": "2025-11-13T20:30:27.410670200",
+      "players": {
+        "human": {
+          "character_name": "Saruman"
+        },
+        "AI": {
+          "character_name": "Sauron"
+        }
+      },
+      "result": {
+        "rounds_player": 3
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 100,
+          "total_damage_dealt": 10,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 90,
+          "total_damage_dealt": 0,
+          "combos_landed": 0
+        }
+      }
+    },
+    {
+      "match_id": 689,
+      "timestamp": "2025-11-13T20:30:57.691718100",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Sauron"
+        }
+      },
+      "result": {
+        "winner": "player",
+        "rounds_player": 4
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 100,
+          "total_damage_dealt": 10,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 90,
+          "total_damage_dealt": 0,
+          "combos_landed": 0
+        }
+      }
+    }
+  ]
+}

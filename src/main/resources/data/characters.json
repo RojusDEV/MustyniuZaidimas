@@ -1,0 +1,59 @@
+{
+  "attacks": ["Phoenix Flare", "Arctic Blast", "Thorn Lash"],
+  "characters": [
+    {
+      "name": "Gandalf",
+      "description": "Šviesos magijos meistras, subalansuotas ir stiprus combo naudotojas.",
+      "combos": [
+        { "attacks": ["Phoenix Flare", "Arctic Blast", "Thorn Lash"] },
+        { "attacks": ["Phoenix Flare", "Phoenix Flare", "Arctic Blast"] },
+        { "attacks": ["Thorn Lash", "Phoenix Flare", "Arctic Blast"] }
+      ]
+    },
+    {
+      "name": "Saruman",
+      "description": "Tamsos valdovas, agresyvus ir pavojingas priešininkas.",
+      "combos": [
+        { "attacks": ["Arctic Blast", "Thorn Lash", "Phoenix Flare"] },
+        { "attacks": ["Phoenix Flare", "Arctic Blast", "Arctic Blast"] },
+        { "attacks": ["Thorn Lash", "Thorn Lash", "Phoenix Flare"] }
+      ]
+    },
+    {
+      "name": "Radagast",
+      "description": "Gamtos burtininkas, gebantis atsilaikyti ir atkurti pusiausvyrą.",
+      "combos": [
+        { "attacks": ["Thorn Lash", "Phoenix Flare", "Arctic Blast"] },
+        { "attacks": ["Thorn Lash", "Thorn Lash", "Arctic Blast"] },
+        { "attacks": ["Phoenix Flare", "Thorn Lash", "Phoenix Flare"] }
+      ]
+    },
+    {
+      "name": "Elrond",
+      "description": "Elfų valdovas, tikslus ir strategiškas kovotojas.",
+      "combos": [
+        { "attacks": ["Arctic Blast", "Phoenix Flare", "Thorn Lash"] },
+        { "attacks": ["Phoenix Flare", "Thorn Lash", "Phoenix Flare"] },
+        { "attacks": ["Arctic Blast", "Arctic Blast", "Thorn Lash"] }
+      ]
+    },
+    {
+      "name": "Galadriel",
+      "description": "Šviesos karalienė, gynybos ir kontratakų ekspertė.",
+      "combos": [
+        { "attacks": ["Thorn Lash", "Arctic Blast", "Phoenix Flare"] },
+        { "attacks": ["Phoenix Flare", "Thorn Lash", "Thorn Lash"] },
+        { "attacks": ["Arctic Blast", "Phoenix Flare", "Arctic Blast"] }
+      ]
+    },
+    {
+      "name": "Sauron",
+      "description": "Chaoso valdovas, galingas, bet rizikingas kovoje.",
+      "combos": [
+        { "attacks": ["Phoenix Flare", "Thorn Lash", "Arctic Blast"] },
+        { "attacks": ["Thorn Lash", "Phoenix Flare", "Phoenix Flare"] },
+        { "attacks": ["Arctic Blast", "Thorn Lash", "Thorn Lash"] }
+      ]
+    }
+  ]
+}
