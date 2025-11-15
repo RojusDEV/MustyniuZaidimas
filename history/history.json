@@ -328,6 +328,35 @@
           "combos_landed": 0
         }
       }
+    },
+    {
+      "match_id": 784,
+      "timestamp": "2025-11-16T00:17:58.848442100",
+      "players": {
+        "human": {
+          "character_name": "Gandalf"
+        },
+        "AI": {
+          "character_name": "Saruman"
+        }
+      },
+      "result": {
+        "rounds_player": 5
+      },
+      "stats": {
+        "human": {
+          "hp_start": 100,
+          "hp_end": 65,
+          "total_damage_dealt": 45,
+          "combos_landed": 0
+        },
+        "AI": {
+          "hp_start": 100,
+          "hp_end": 55,
+          "total_damage_dealt": 35,
+          "combos_landed": 0
+        }
+      }
     }
   ]
 }
